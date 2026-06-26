@@ -1,4 +1,4 @@
-#1
+#2
 #gpu-burn
 
 #sudo apt-get update
