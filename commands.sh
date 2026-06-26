@@ -1,4 +1,4 @@
-#1
+#2
 #nvidia-smi
 nvidia-smi
 
